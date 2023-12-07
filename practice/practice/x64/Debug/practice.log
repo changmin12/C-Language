@@ -1,2 +1,3 @@
 ﻿  solution.c
-  practice.vcxproj -> C:\Users\MIN\Desktop\practice\x64\Debug\practice.exe
+C:\Users\MIN\Desktop\C-Language\practice\practice\solution.c(80,2): error C2146: 구문 오류: ';'이(가) 'printf' 식별자 앞에 없습니다.
+C:\Users\MIN\Desktop\C-Language\practice\practice\solution.c(90,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
