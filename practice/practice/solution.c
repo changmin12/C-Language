@@ -71,15 +71,16 @@ void main()
 
 	// 표준 출력 함수의 경우 출력할 문자열 사이에 변수를
 	// 출력하려면 서식이라는 특수한 문자를 받도록 설정해야 합니다.
-	printf("Hello World"~);
+	printf("Hello World~\n");
 
 	// 서식 지정자의 경우 하나의 표준 출력 함수에 여러 개의 서식을
 	// 넣을 수 있으며, 서식 지정자의 순서는 왼쪽에서부터 시작합니다. 
-	printf("%c", grade)
+	printf("%c\n", grade);
 
-	printf("%c %d", grade, attack);
+	printf("%c %d\n", grade, attack);
 
-	// "
+	// "%c" : 하나의 문자를 표현하는 서식 지정자
+    // "%d"    : 정수를 표현하는 서식 지정자
 
 #pragma endregion
 
