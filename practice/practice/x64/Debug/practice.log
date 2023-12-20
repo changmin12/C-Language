@@ -1,14 +1,2 @@
 ﻿  solution.c
-C:\Users\Administrator\Desktop\성창민\C-Language\practice\practice\solution.c(51,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-C:\Users\Administrator\Desktop\성창민\C-Language\practice\practice\solution.c(51,9): message : consider using '%zd' in the format string
-C:\Users\Administrator\Desktop\성창민\C-Language\practice\practice\solution.c(52,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-C:\Users\Administrator\Desktop\성창민\C-Language\practice\practice\solution.c(52,9): message : consider using '%zd' in the format string
-C:\Users\Administrator\Desktop\성창민\C-Language\practice\practice\solution.c(53,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-C:\Users\Administrator\Desktop\성창민\C-Language\practice\practice\solution.c(53,9): message : consider using '%zd' in the format string
-C:\Users\Administrator\Desktop\성창민\C-Language\practice\practice\solution.c(54,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-C:\Users\Administrator\Desktop\성창민\C-Language\practice\practice\solution.c(54,9): message : consider using '%zd' in the format string
-C:\Users\Administrator\Desktop\성창민\C-Language\practice\practice\solution.c(55,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-C:\Users\Administrator\Desktop\성창민\C-Language\practice\practice\solution.c(55,9): message : consider using '%zd' in the format string
-C:\Users\Administrator\Desktop\성창민\C-Language\practice\practice\solution.c(56,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-C:\Users\Administrator\Desktop\성창민\C-Language\practice\practice\solution.c(56,9): message : consider using '%zd' in the format string
-  practice.vcxproj -> C:\Users\Administrator\Desktop\성창민\C-Language\practice\x64\Debug\practice.exe
+  practice.vcxproj -> C:\Users\MIN\Desktop\C-Language\practice\x64\Debug\practice.exe
