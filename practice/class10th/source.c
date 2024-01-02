@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "Function.h" // int data;
+//#include "Function.h" // int data;
 
 // 매크로의 경우 자료형이 존재하지 않으므로
 // 메모리 공간을 가지고 있지 않습니다.

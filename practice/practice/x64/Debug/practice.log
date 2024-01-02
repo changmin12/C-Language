@@ -1,2 +1,2 @@
-﻿  solution.c
-  practice.vcxproj -> C:\Users\MIN\Desktop\C-Language\practice\x64\Debug\practice.exe
+﻿solution.obj : error LNK2019: PRINTFmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\MIN\Desktop\C-Language\practice\x64\Debug\practice.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
