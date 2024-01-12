@@ -1,3 +1,5 @@
 ﻿  solution.c
-C:\Users\MIN\Desktop\C-Language\practice\practice\solution.c(39,17): warning C4101: 'string' :참조되지 않은 지역 변수입니다.
+C:\Users\MIN\Desktop\C-Language\practice\practice\solution.c(45,5): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MIN\Desktop\C-Language\practice\practice\solution.c(47,20): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MIN\Desktop\C-Language\practice\practice\solution.c(59,9): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   practice.vcxproj -> C:\Users\MIN\Desktop\C-Language\practice\x64\Debug\practice.exe
